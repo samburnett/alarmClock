@@ -1,6 +1,6 @@
-
-# Alarm Clock
 Sam Burnett
+# Alarm Clock Assignment
+
 # Description
 Suppose we want to develop software for an alarm clock.
 
